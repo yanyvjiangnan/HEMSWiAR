@@ -1,5 +1,5 @@
-# HEMSWiAR
-High-Performance Cross-Domain Recognition Framework with Multi-Source Domain Adaptation 
+# MSWiAR
+High-Performance Cross-Domain Recognition Framework use Multi-Source Domain Adaptation 
 ## Project Structure
 This project contains two folders: `matlab` and `python`.
 ### matlab
